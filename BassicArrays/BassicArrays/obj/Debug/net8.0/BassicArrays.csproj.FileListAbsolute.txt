@@ -1,0 +1,14 @@
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\bin\Debug\net8.0\BassicArrays.exe
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\bin\Debug\net8.0\BassicArrays.deps.json
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\bin\Debug\net8.0\BassicArrays.runtimeconfig.json
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\bin\Debug\net8.0\BassicArrays.dll
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\bin\Debug\net8.0\BassicArrays.pdb
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\obj\Debug\net8.0\BassicArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\obj\Debug\net8.0\BassicArrays.AssemblyInfoInputs.cache
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\obj\Debug\net8.0\BassicArrays.AssemblyInfo.cs
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\obj\Debug\net8.0\BassicArrays.csproj.CoreCompileInputs.cache
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\obj\Debug\net8.0\BassicArrays.dll
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\obj\Debug\net8.0\refint\BassicArrays.dll
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\obj\Debug\net8.0\BassicArrays.pdb
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\obj\Debug\net8.0\BassicArrays.genruntimeconfig.cache
+C:\Users\rgcb1\Desktop\Mis Proyectos\BassicArrays\BassicArrays\obj\Debug\net8.0\ref\BassicArrays.dll
